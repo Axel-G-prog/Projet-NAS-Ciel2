@@ -138,7 +138,8 @@ Le NAS ainsi configuré est :
 
 ## 👨‍💻 Auteur
 
-**Nom / :** *Gantou Axel*
+**Nom :** *Gantou Axel*
+
 **GitHub : [@Axel-G-prog](https://github.com/Axel-G-prog)
 
 
