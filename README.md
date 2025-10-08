@@ -45,7 +45,7 @@ Voici les principales raisons de ce choix :
    Samba fonctionne parfaitement sur Raspberry Pi OS (Linux), tout en restant léger et stable, idéal pour un projet d’apprentissage et de démonstration.
 
 > 💬 En résumé : Samba permet d’avoir un **NAS simple, sécurisé et accessible depuis tous les systèmes**, sans nécessiter de matériel coûteux.
-
+````
 ---
 
 ## 🗂️ Arborescence du projet
@@ -158,8 +158,8 @@ Les captures de tests et de fonctionnement sont disponibles ici :
 
 ## 👨‍💻 Auteur
 
-**Nom / Pseudo :** *[à compléter]*
-**GitHub :** [@ton-pseudo](https://github.com/ton-pseudo)
+**Nom / :** *Gantou Axel*
+**GitHub :**(https://github.com/ton-pseudo)](https://github.com/Axel-G-prog)
 
 > 🧰 Projet pédagogique réalisé sur **Raspberry Pi 5**, autour de l’administration Linux, du réseau et de l’automatisation.
 
@@ -181,7 +181,6 @@ Copyright (c) 2025
 
 ---
 
-
 ## Badges utilisés lors de la rédaction de la documentation technique : 
 
 ![En cours](https://img.shields.io/badge/Statut-En%20cours-yellow)
@@ -191,5 +190,3 @@ Copyright (c) 2025
 ![Non Valide](https://img.shields.io/badge/Statut-Non%20Valide-red)
 ![Partiellement Valide](https://img.shields.io/badge/Statut-Partiellement%20Valide-lightgrey)
 ![Validé](https://img.shields.io/badge/Statut-Valid%C3%A9-brightgreen)
-
-````
