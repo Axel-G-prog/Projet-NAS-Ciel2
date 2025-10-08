@@ -77,7 +77,7 @@ Projet-NAS/
 
 
 ---
-
+````
 ## 🧩 Organisation du travail
 
 Le projet est réparti sur **3 séances**, chacune correspondant à une étape du développement.
