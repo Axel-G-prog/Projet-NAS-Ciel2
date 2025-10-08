@@ -192,3 +192,4 @@ Copyright (c) 2025
 ![Partiellement Valide](https://img.shields.io/badge/Statut-Partiellement%20Valide-lightgrey)
 ![Validé](https://img.shields.io/badge/Statut-Valid%C3%A9-brightgreen)
 
+````
