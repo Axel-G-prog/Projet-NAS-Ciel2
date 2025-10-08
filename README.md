@@ -43,8 +43,6 @@ Voici les principales raisons de ce choix :
 4. 🔄 **Intégration avec Linux**  
    Samba fonctionne parfaitement sur Raspberry Pi OS (Linux), tout en restant léger et stable, idéal pour un projet d’apprentissage et de démonstration.
 
-> 💬 En résumé : Samba permet d’avoir un **NAS simple, sécurisé et accessible depuis tous les systèmes**, sans nécessiter de matériel coûteux.
-
 ---
 
 ## 🗂️ Arborescence du projet
@@ -126,20 +124,7 @@ Le NAS ainsi configuré est :
 * **Accessible** : partage les dossiers via le réseau local (`\\IP_RASPBERRY\public` / `\\IP_RASPBERRY\prive`).
 * **Sécurisé** : chaque utilisateur Samba dispose d’un espace personnel privé.
 * **Documenté** : toutes les étapes sont décrites dans les fichiers de chaque séance.
-
----
-
-## 🖥️ Aperçu des résultats
-
-Les captures de tests et de fonctionnement sont disponibles ici :
-`Séance3/img/`
-
-<p align="center">
-  <img src="./Séance3/img/Resultat-Script.png" width="70%" alt="Résultat du script principal">
-  <br>
-  <img src="./Séance3/img/Resultat-Script-User.png" width="70%" alt="Résultat ajout utilisateur">
-</p>
-
+  
 ---
 
 ## 📚 Pour aller plus loin
@@ -155,7 +140,8 @@ Les captures de tests et de fonctionnement sont disponibles ici :
 ## 👨‍💻 Auteur
 
 **Nom / :** *Gantou Axel*
-**GitHub :**(https://github.com/ton-pseudo)](https://github.com/Axel-G-prog)
+**GitHub : [@Axel-G-prog](https://github.com/Axel-G-prog)
+
 
 > 🧰 Projet pédagogique réalisé sur **Raspberry Pi 5**, autour de l’administration Linux, du réseau et de l’automatisation.
 
