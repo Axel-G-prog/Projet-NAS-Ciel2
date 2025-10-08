@@ -8,14 +8,14 @@
   <img src="https://img.shields.io/badge/Samba-NAS-yellow?logo=samba" alt="Samba">
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="MIT License">
 </p>
-
+````
 ---
-
+````
 > 🧠 **Projet réalisé en 3 séances** pour concevoir un **NAS (serveur de stockage en réseau)** autonome et fonctionnel sur **Raspberry Pi 5**.  
 > Le but est de mettre en place un partage de fichiers fiable via **Samba**, avec des scripts d’installation, d’automatisation et de gestion d’utilisateurs.
 
 ---
-
+````
 ## 📦 Objectif du projet
 
 Ce projet transforme un **Raspberry Pi 5** en un **NAS personnel** capable de :
@@ -25,7 +25,7 @@ Ce projet transforme un **Raspberry Pi 5** en un **NAS personnel** capable de :
 - conserver des **logs détaillés** pour le suivi du système.
 
 ---
-
+````
 ## 🧠 Pourquoi avoir choisi **Samba** ?
 
 J’ai choisi **Samba** car c’est la **solution la plus simple et universelle** pour partager des fichiers entre plusieurs systèmes (Windows, Linux, macOS).  
