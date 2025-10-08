@@ -74,9 +74,6 @@ Projet-NAS/
 │   └── img/
 │
 └── README.md
-
-
----
 ````
 ## 🧩 Organisation du travail
 
