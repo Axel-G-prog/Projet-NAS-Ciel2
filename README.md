@@ -112,7 +112,6 @@ Le projet est réparti sur **3 séances**, chacune correspondant à une étape d
   `Séance3/Fiche-Recette-NAS.md`
   `Séance3/Gantt.md`
   `Séance3/Suivi-avancement-3.md`
-  `Séance3/statuts.md`
 
 ---
 
