@@ -51,7 +51,8 @@ pi@raspberrypi:~ $ sudo ./install_nas_autoreboot.sh
 
 Suivi du projet : 
 
-<img src="../img/gantt.png" alt="gantt">
+<img width="1108" height="363" alt="image" src="https://github.com/user-attachments/assets/bbbb8c36-d6d3-40fd-ae0e-accbdb3c1f13" />
+
 
 ---
 ## Conclusion 
