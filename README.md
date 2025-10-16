@@ -70,8 +70,8 @@ Projet-NAS/
 │   ├── Gantt.md
 │   ├── Suivi-avancement-3.md
 │   ├── Tutoriel-Complet.md
-│   ├── statuts.md
-│   └── img/
+│   └── statuts.md
+├── img/
 │
 └── README.md
 ```
