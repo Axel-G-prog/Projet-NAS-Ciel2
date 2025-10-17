@@ -6,14 +6,14 @@ Mettre en place un service de partage de fichiers sur un Raspberry Pi via Samba,
 
 ## 2. Prérequis
 
-| ID   | Description                                        | Statut | Commentaires                                                 |             |
-| ---- | -------------------------------------------------- | ------ | ------------------------------------------------------------ | ----------- |
-| PR01 | Raspberry Pi OS à jour                             | Validé | `sudo apt update && sudo apt upgrade`                        |             |
-| PR02 | Clé USB ou disque externe disponible               | Validé | Vérifier avec `lsblk` ou `blkid`                             |             |
-| PR03 | Paquet **samba** installé                          | Validé | Vérification avec `apt list --installed grep samba` |
-| PR04 | Groupe **smbusers** créé                           | Validé | Créé automatiquement par le script                           |             |
-| PR05 | Dossiers `/mnt/nas/public`, `/mnt/nas/prive` créés | Validé | Créés automatiquement par le script                          |             |
-| PR06 | Accès réseau local fonctionnel                     | Validé | Testé par l'accès de **fichiers lourds** (>5 Mo) depuis un client (iPhone / Mac / Windows) |             |
+| ID   | Description                                        | Statut | Commentaires                                                 |             
+| ---- | -------------------------------------------------- | ------ | ------------------------------------------------------------ |
+| PR01 | Raspberry Pi OS à jour                             | Validé | `sudo apt update && sudo apt upgrade`                        |             
+| PR02 | Clé USB ou disque externe disponible               | Validé | Vérifier avec `lsblk` ou `blkid`                             |
+| PR03 | Paquet **samba** installé                          | Validé | Vérification avec `apt list --installed grep samba` 
+| PR04 | Groupe **smbusers** créé                           | Validé | Créé automatiquement par le script                           |             
+| PR05 | Dossiers `/mnt/nas/public`, `/mnt/nas/prive` créés | Validé | Créés automatiquement par le script                          |             
+| PR06 | Accès réseau local fonctionnel                     | Validé | Testé par l'accès de **fichiers lourds** (>5 Mo) depuis un client (iPhone / Mac / Windows) |             
 
 ## 3. Contraintes techniques
 
