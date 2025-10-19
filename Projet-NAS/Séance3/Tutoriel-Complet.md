@@ -303,8 +303,18 @@ sudo bash add_samba_user.sh
 
 ### **Accéder au NAS**
 
+Depuis Windows : 
 * Public : `\\IP_RASPBERRY\public`
 * Privé : `\\IP_RASPBERRY\prive` (nécessite un compte Samba)
+
+Depuis MacMacOS / iPhone : 
+* Public : `smb://IP_RASPBERRY/public`
+* Privé : `smb://IP_RASPBERRY/prive` (nécessite un compte Samba)
+
+Linux : 
+* Public : `gio mount smb://IP_RASPBERRY/public`
+* Privé : `gio mount smb://IP_RASPBERRY/prive` (nécessite un compte Samba)
+
 
 ### **Ajouter un utilisateur**
 
