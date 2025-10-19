@@ -27,7 +27,7 @@
 
 | **ID Test** | **Fonctionnalité**        | **Description**                                 | **Méthode/Commande**                      | **Résultat attendu**       | **Résultat obtenu** | **Statut**                                                             |
 | ----------- | ------------------------- | ----------------------------------------------- | ----------------------------------------- | -------------------------- | ------------------- | ---------------------------------------------------------------------- |
-| T01         | Dossier public accessible | Accès en lecture/écriture sans authentification | `smbclient //localhost/public -N -c "ls"` | Liste des fichiers visible | ✔                   | ![Validé](https://img.shields.io/badge/Statut-Valid%C3%A9-brightgreen) |
+| T01         | Dossier public accessible | Accès en lecture sans authentification | `smbclient //localhost/public -N -c "ls"` | Liste des fichiers visible | ✔                   | ![Validé](https://img.shields.io/badge/Statut-Valid%C3%A9-brightgreen) |
 | T02         | Création de fichier       | Création d’un fichier depuis un client          | `touch /mnt/nas/public/test.txt`          | Fichier créé               | ✔                   | ![Validé](https://img.shields.io/badge/Statut-Valid%C3%A9-brightgreen) |
 
 ### 2.2 Configuration du partage privé
